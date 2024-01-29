@@ -1,1 +1,1 @@
-Django prject: Portfolio
+#Django project: Portfolio
